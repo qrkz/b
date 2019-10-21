@@ -1,0 +1,18 @@
+body{
+    background: #222;
+    padding: 0; margin: 0;
+    color: #ddd;
+    font-family: 'Ubuntu Mono', 'Courier New', Courier, monospace;
+}
+.vjNavBrand{
+    display: block;
+    right: 0; left: 0;
+    color: #ff0;
+    width: 100%;
+    text-align: center;
+}
+.mm-navbar .vjMenuBottomBtn{
+    display: flex;
+    width: 20%;
+    align-items: center; justify-content: center;
+}
